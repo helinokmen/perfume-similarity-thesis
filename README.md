@@ -102,3 +102,5 @@ Embedding model: `all-MiniLM-L6-v2`
 ## Reference
 
 Hussein, J. (2024). Fragrantica Data [Data set]. Kaggle. https://www.kaggle.com/datasets/joehusseinmama/fragrantica-data (Last accessed: April 17, 2026)
+
+Originally developed at github.com/hokmen-beep/perfume-similarity-thes
